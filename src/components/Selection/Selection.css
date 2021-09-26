@@ -1,6 +1,6 @@
 .selection-container {
   display: grid;
-  grid-template-columns: 4fr 1fr;
+  grid-template-columns: 3fr 1fr;
   grid-gap: 10px;
 }
 .scientists-container {
@@ -10,4 +10,9 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
+}
+.prize-container {
+  background-color: rgb(243, 219, 219);
+  border-radius: 10px;
+  text-align: center;
 }

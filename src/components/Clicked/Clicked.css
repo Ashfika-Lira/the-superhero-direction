@@ -1,0 +1,16 @@
+.selected {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(223, 197, 247);
+  border-radius: 5px;
+}
+.selected img {
+  border-radius: 50%;
+  width: 60px;
+  margin-right: 20px;
+}
+.scholar-clicked {
+  padding: 5px;
+}

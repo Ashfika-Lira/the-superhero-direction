@@ -1,5 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebookSquare, faTwitterSquare } from "@fortawesome/free-brands-svg-icons";
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './Scientists.css'
 
@@ -17,11 +18,17 @@ const Scientists = (props) => {
 			<p>Lifespan: {lifespan}</p>
 			<p>Country: {country}</p>
 			<p>Reward: ${reward}</p>
-			<button
+			<div>
+			  <button
 			onClick={() => props.handleAddToCart(props.scientist)}
 			className="btn-regular"
 			>{cartIcon} Select Now</button>
-			 </div>
+			</div>
+			<div className="social-icons">
+			<FontAwesomeIcon style={{ color: "#4267B2" }} className="social-icon" icon={faFacebookSquare} />
+			<FontAwesomeIcon style={{ color: "#2867B2" }} className="social-icon" icon={faTwitterSquare} />
+			</div>
+			</div>
 		</div>
 	);
 };

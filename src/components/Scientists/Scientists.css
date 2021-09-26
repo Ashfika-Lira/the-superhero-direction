@@ -9,8 +9,8 @@
 .scholar-card img {
   max-width: 150px;
   border-radius: 50%;
-  margin-right: 75px;
-  margin-left: 75px;
+  margin-right: 60px;
+  margin-left: 60px;
 }
 .scholar-name {
   font-weight: 700;
@@ -22,6 +22,21 @@
   border: 1px solid gray;
   border-radius: 5px;
   cursor: pointer;
-  margin-right: 75px;
-  margin-left: 75px;
+  margin-right: 60px;
+  margin-left: 60px;
+  font-size: medium;
+}
+.social-icons {
+  margin-right: 90px;
+  margin-left: 90px;
+}
+.social-icon {
+  color: rgb(207, 188, 188);
+  margin: 5px;
+  padding: 5px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.social-icon:hover {
+  color: #1297e0;
 }
