@@ -26,7 +26,7 @@ const Selection = () => {
 				handleAddToCart={handleAddToCart}
 				>
 			</Scientists>)
-		}
+		} 
 	</div>
 	<div className="prize-container">
         <Prize prize= {prize}></Prize>
