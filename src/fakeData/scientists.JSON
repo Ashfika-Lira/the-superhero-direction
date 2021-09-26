@@ -1,182 +1,137 @@
 [
 	{
 		"key": "B01LZ2GH",
-		"name": {
-			"first": "Issac",
-			"last": "Newton"
-			},
-			"img": "https://en.wikipedia.org/wiki/Isaac_Newton#/media/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
-			"role": "Mathematician",
-			"lifespan": "January 4, 1643 – March 31, 1727",
-			"country": "UK",
-			"reward":2600000
+		"name": "Issac Newton",
+		"img": "https://en.wikipedia.org/wiki/Isaac_Newton#/media/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg",
+		"role": "Mathematician",
+		"lifespan": "January 4, 1643 – March 31, 1727",
+		"country": "UK",
+		"reward":2600000
 	},
 	{
 		"key": "B01MUZF5",
-		"name": {
-			"first": "Albert",
-			"last": "Einstein"
-			},
-			"img": "https://en.wikipedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
-			"role": "Theoretical physicist",
-			"lifespan": "March 14, 1879 – April 18, 1955",
-			"country": "Germany",
-			"reward":4000000
+		"name": "Albert Einstein",
+		"img": "https://en.wikipedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+		"role": "Theoretical physicist",
+		"lifespan": "March 14, 1879 – April 18, 1955",
+		"country": "Germany",
+		"reward":4000000
 	},
 	{
 		"key": "B015L0C6",
-		"name": {
-			"first": "Marie",
-			"last": "Curie"
-			},
-			"img": "https://en.wikipedia.org/wiki/Marie_Curie#/media/File:Marie_Curie_c._1920s.jpg",
-			"role": "Physicist",
-			"lifespan": "November 7, 1867 – July 4, 1934",
-			"country": "Poland",
-			"reward":2340000
+		"name": "Marie Curie",
+		"img": "https://en.wikipedia.org/wiki/Marie_Curie#/media/File:Marie_Curie_c._1920s.jpg",
+		"role": "Physicist",
+		"lifespan": "November 7, 1867 – July 4, 1934",
+		"country": "Poland",
+		"reward":2340000
 	},
 	{
 		"key": "B01J42JG",
-		"name": {
-			"first": "Galileo",
-			"last": "Galilei"
-			},
-			"img": "https://en.wikipedia.org/wiki/Galileo_Galilei#/media/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
-			"role": "Astronomer",
-			"lifespan": "February 15, 1564 – January 8, 1642",
-			"country": "Italy",
-			"reward":2000000
+		"name": "Galileo Galilei",
+		"img": "https://en.wikipedia.org/wiki/Galileo_Galilei#/media/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+		"role": "Astronomer",
+		"lifespan": "February 15, 1564 – January 8, 1642",
+		"country": "Italy",
+		"reward":2000000
 	},
 	{
 		"key": "B01DERMO",
-		"name": {
-			"first": "Stephen",
-			"last": "Hawking"
-			},
-			"img": "https://en.wikipedia.org/wiki/Stephen_Hawking#/media/File:Stephen_Hawking.StarChild.jpg",
-			"role": "Theoretical physicist",
-			"lifespan": "January 8, 1942 - March 14, 2018",
-			"country": "UK",
-			"reward":1500000
+		"name": "Stephen Hawking",
+		"img": "https://en.wikipedia.org/wiki/Stephen_Hawking#/media/File:Stephen_Hawking.StarChild.jpg",
+		"role": "Theoretical physicist",
+		"lifespan": "January 8, 1942 - March 14, 2018",
+		"country": "UK",
+		"reward":1500000
 	},
 	{
 		"key": "B01LZKS6",
-		"name": {
-			"first": "Charles",
-			"last": "Babbage"
-			},
-			"img": "https://en.wikipedia.org/wiki/Charles_Babbage#/media/File:Charles_Babbage_-_1860.jpg",
-			"role": "Mathematician",
-			"lifespan": "December 26, 1791 - October 18, 1871",
-			"country": "UK",
-			"reward":3000000
+		"name": "Charles Babbage",
+		"img": "https://en.wikipedia.org/wiki/Charles_Babbage#/media/File:Charles_Babbage_-_1860.jpg",
+		"role": "Mathematician",
+		"lifespan": "December 26, 1791 - October 18, 1871",
+		"country": "UK",
+		"reward":3000000
 	},
 	{
 		"key": "B01CLVPA",
-		"name": {
-			"first": "Nicolaus",
-			"last": "Copernicus"
-			},
-			"img": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus#/media/File:Nikolaus_Kopernikus.jpg",
-			"role": "Mathematician",
-			"lifespan": "February 19, 1473 – May 24, 1543",
-			"country": "Poland",
-			"reward":3200000
+		"name": "Nicolaus Copernicus",
+		"img": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus#/media/File:Nikolaus_Kopernikus.jpg",
+		"role": "Mathematician",
+		"lifespan": "February 19, 1473 – May 24, 1543",
+		"country": "Poland",
+		"reward":3200000
 	},
 	{
 		"key": "B01JKP34",
-		"name": {
-			"first": "Charles",
-			"last": "Darwin"
-			},
-			"img": "https://en.wikipedia.org/wiki/Charles_Darwin#/media/File:Charles_Darwin_seated_crop.jpg",
-			"role": "Naturalist",
-			"lifespan": "February 12, 1809 - April 19, 1882",
-			"country": "England",
-			"reward":1200000
+		"name": "Charles Darwin",
+		"img": "https://en.wikipedia.org/wiki/Charles_Darwin#/media/File:Charles_Darwin_seated_crop.jpg",
+		"role": "Naturalist",
+		"lifespan": "February 12, 1809 - April 19, 1882",
+		"country": "England",
+		"reward":1200000
 	},
 	{
 		"key": "B01J68W0",
-		"name": {
-			"first": "Pierre",
-			"last": "Curie"
-			},
-			"img": "https://en.wikipedia.org/wiki/Pierre_Curie#/media/File:Pierre_Curie_by_Dujardin_c1906.jpg",
-			"role": "Physicist",
-			"lifespan": "May 15, 1859 - April 19, 1906",
-			"country": "France",
-			"reward":1500000
+		"name": "Pierre Curie",
+		"img": "https://en.wikipedia.org/wiki/Pierre_Curie#/media/File:Pierre_Curie_by_Dujardin_c1906.jpg",
+		"role": "Physicist",
+		"lifespan": "May 15, 1859 - April 19, 1906",
+		"country": "France",
+		"reward":1500000
 	},
 	{
 		"key": "B06TN893",
-		"name": {
-			"first": "René",
-			"last": "Descartes"
-			},
-			"img": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes#/media/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
-			"role": "Philosopher",
-			"lifespan": "March 31, 1596 – February 11, 1650",
-			"country": "France",
-			"reward":1580000
+		"name": "René Descartes",
+		"img": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes#/media/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+		"role": "Philosopher",
+		"lifespan": "March 31, 1596 – February 11, 1650",
+		"country": "France",
+		"reward":1580000
 	},
 	{
 		"key": "B06XR893",
-		"name": {
-			"first": "Gregor",
-			"last": "Mendel"
-			},
-			"img": "https://en.wikipedia.org/wiki/Gregor_Mendel#/media/File:Gregor_Mendel_2.jpg",
-			"role": "Mathematician",
-			"lifespan": "July 20, 1822 – January 6, 1884",
-			"country": "Czechia",
-			"reward":2000000
+		"name": "Gregor Mendel",
+		"img": "https://en.wikipedia.org/wiki/Gregor_Mendel#/media/File:Gregor_Mendel_2.jpg",
+		"role": "Mathematician",
+		"lifespan": "July 20, 1822 – January 6, 1884",
+		"country": "Czechia",
+		"reward":2000000
 	},
 	{
 		"key": "B019HOMO",
-		"name": {
-			"first": "Blaise",
-			"last": "Pascal"
-			},
-			"img": "https://en.wikipedia.org/wiki/Blaise_Pascal#/media/File:Blaise_Pascal_Versailles.JPG",
-			"role": "Mathematician",
-			"lifespan": "June 19, 1623 – August 19, 1662",
-			"country": "France",
-			"reward":2400000
+		"name": "Blaise Pascal",
+		"img": "https://en.wikipedia.org/wiki/Blaise_Pascal#/media/File:Blaise_Pascal_Versailles.JPG",
+		"role": "Mathematician",
+		"lifespan": "June 19, 1623 – August 19, 1662",
+		"country": "France",
+		"reward":2400000
 	},
 	{
 		"key": "B00W6SWQ",
-		"name": {
-			"first": "Niels",
-			"last": "Bohr"
-			},
-			"img": "https://en.wikipedia.org/wiki/Niels_Bohr#/media/File:Niels_Bohr.jpg",
-			"role": "Physicist",
-			"lifespan": "October 7, 1885 – November 18, 1962",
-			"country": "Denmark",
-			"reward":5000000
+		"name": "Niels Bohr",
+		"img": "https://en.wikipedia.org/wiki/Niels_Bohr#/media/File:Niels_Bohr.jpg",
+		"role": "Physicist",
+		"lifespan": "October 7, 1885 – November 18, 1962",
+		"country": "Denmark",
+		"reward":5000000
 	},
 	{
 		"key": "B01VLE7Q",
-		"name": {
-			"first": "Robert",
-			"last": "Hooke"
-			},
-			"img": "https://en.wikipedia.org/wiki/Robert_Hooke#/media/File:Portrait_of_a_Mathematician_1680c.jpg",
-			"role": "Physician",
-			"lifespan": "July 28, 1635 – March 3, 1703",
-			"country": "UK",
-			"reward":6000000
+		"name": "Robert Hooke",
+		"img": "https://en.wikipedia.org/wiki/Robert_Hooke#/media/File:Portrait_of_a_Mathematician_1680c.jpg",
+		"role": "Physician",
+		"lifespan": "July 28, 1635 – March 3, 1703",
+		"country": "UK",
+		"reward":6000000
 	},
 	{
 		"key": "B01N0Q13",
-		"name": {
-			"first": "Alexander",
-			"last": "Fleming"
-			},
-			"img": "https://en.wikipedia.org/wiki/Alexander_Fleming#/media/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
-			"role": "Physician",
-			"lifespan": "August 6, 1881 – March 11, 1955",
-			"country": "UK",
-			"reward":7000000
+		"name": "Alexander Fleming",
+		"img": "https://en.wikipedia.org/wiki/Alexander_Fleming#/media/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+		"role": "Physician",
+		"lifespan": "August 6, 1881 – March 11, 1955",
+		"country": "UK",
+		"reward":7000000
 	}
 ]
