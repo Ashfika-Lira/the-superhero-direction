@@ -1,0 +1,13 @@
+.selection-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  grid-gap: 10px;
+}
+.scientists-container {
+  border-right: 1px solid lightgray;
+  margin-right: 5px;
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
